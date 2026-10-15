@@ -18,9 +18,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ANDREA SAMSAR — Architecture Portfolio",
+  title: "ANDREA SAMSA — Architecture Portfolio",
   description:
-    "Architecture portfolio of Andrea Samsar — architectural design, rendering, and concept boards. University of the Immaculate Conception, Davao City.",
+    "Architecture portfolio of Andrea Samsa — architectural design, rendering, and concept boards. University of the Immaculate Conception, Davao City.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

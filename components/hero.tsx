@@ -20,7 +20,7 @@ export function Hero() {
         <div className="mt-12 grid grid-cols-1 gap-10 lg:grid-cols-12 lg:items-end">
           <div className="lg:col-span-7">
             <h1 className="font-display text-[20vw] font-black leading-[0.9] tracking-tighter text-foreground sm:text-9xl lg:text-10xl">
-              SAMSAR
+              SAMSA
             </h1>
             <p className="mt-5 max-w-xl font-body text-xl italic leading-relaxed text-foreground md:text-2xl">
               Architectural Design · Davao, Philippines

@@ -12,7 +12,7 @@ export function SiteHeader() {
           href="#top"
           className="font-display text-lg font-semibold tracking-tight text-foreground"
         >
-          ANDREA&nbsp;SAMSAR
+          ANDREA&nbsp;SAMSA
         </a>
         <nav aria-label="Primary" className="flex items-center gap-6">
           {links.map((link) => (
