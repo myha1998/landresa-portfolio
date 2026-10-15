@@ -468,6 +468,6 @@ export const facts = [
 
 export const contact = {
   email: "230000002665@UIC.EDU.PH",
-  phone: "0951 457 0301",
+  phone: "0944 623 4454",
   location: "DAVAO CITY, PHILIPPINES",
 };

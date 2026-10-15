@@ -10,7 +10,7 @@ export function SiteFooter() {
       <div className="mx-auto max-w-6xl px-6 py-12 md:px-8 lg:px-12">
         <div className="flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
           <p className="font-display text-lg font-semibold tracking-tight text-foreground">
-            LANDREA CAMSA
+            ANDREA SAMSAR
           </p>
           <nav aria-label="Footer" className="flex items-center gap-6">
             {links.map((link) => (
@@ -25,7 +25,7 @@ export function SiteFooter() {
           </nav>
         </div>
         <div className="mt-8 flex flex-col gap-2 border-t border-border-light pt-6 font-mono text-xs tracking-widest text-muted-foreground md:flex-row md:justify-between">
-          <span>© 2026 LANDREA CAMSA · ARCHITECTURE PORTFOLIO</span>
+          <span>© 2026 ANDREA SAMSAR · ARCHITECTURE PORTFOLIO</span>
           <span>UNIVERSITY OF THE IMMACULATE CONCEPTION</span>
         </div>
       </div>

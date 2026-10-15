@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const project = getProject(slug);
   if (!project) return {};
   return {
-    title: `${project.title} — LANDREA CAMSA`,
+    title: `${project.title} — ANDREA SAMSAR`,
     description: project.description,
   };
 }
